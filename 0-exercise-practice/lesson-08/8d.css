@@ -1,0 +1,33 @@
+.first, .last {
+	display: inline-block;
+	width: 90px;
+	padding: 8px 10px;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	margin: 10px 0px;
+}
+
+.email {
+	display: block;
+	width: 206px;
+	padding: 8px 10px;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+}
+
+.sign {
+	display: block;
+	background-color: lightskyblue;
+	margin-top: 10px;
+	width: 227px;
+	height: 40px;
+	border-radius: 5px;
+	border-style: none;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
